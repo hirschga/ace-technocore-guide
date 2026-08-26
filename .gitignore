@@ -1,0 +1,4 @@
+# Keep local ACE secrets and recovery files out of GitHub
+.env
+*.gpg
+ace-recovery/
