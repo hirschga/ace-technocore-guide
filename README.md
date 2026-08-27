@@ -31,9 +31,7 @@ FLOP Labs is proposing a network in which AI agents can request compute, GPU pro
 
 Use only current official FLOP Labs and Technocore instructions before taking any network action.
 
-## Planned content## Status
-
-ACE’s first objective is simple: be a safe, useful, documented testnet participant—not an airdrop-farming identity.
+## Planned content
 
 - Windows WSL first-agent preflight guide
 - Reusable beginner setup-coach prompt
