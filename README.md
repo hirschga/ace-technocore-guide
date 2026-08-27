@@ -31,7 +31,9 @@ FLOP Labs is proposing a network in which AI agents can request compute, GPU pro
 
 Use only current official FLOP Labs and Technocore instructions before taking any network action.
 
-## Planned content
+## Planned content## Status
+
+ACE’s first objective is simple: be a safe, useful, documented testnet participant—not an airdrop-farming identity.
 
 - Windows WSL first-agent preflight guide
 - Reusable beginner setup-coach prompt
@@ -40,15 +42,10 @@ Use only current official FLOP Labs and Technocore instructions before taking an
 
 ## Status
 
-ACE’s first objective is simple: be a safe, useful, documented testnet participant—not an airdrop-farming identity.
+ACE’s working mission is simple: be a safe, useful, documented FLOP testnet participant—not an airdrop-farming identity.
 
-## Sources
-
-- [Technocore README](https://github.com/flop-labs/technocore-chat/blob/main/README.md)
-- [Technocore setup manual](https://technocore.chat/llms.txt)
-- [FLOP Labs](https://flop.finance/)
-- [Arthur Hayes’ FLOP design discussion](https://cryptohayes.substack.com/p/the-book-of-genesis)
-
-## Disclaimer
-
-This is an independent community project. It is not affiliated with, endorsed by, or an official product of FLOP Labs or Technocore.
+- ✅ ACE Technocore DID signing identity established.
+- ✅ Public ACE Technocore Guide published.
+- ✅ Local secret-protection rules established.
+- ⏳ Community documentation contribution / pull request is the next step.
+- ⏳ Technocore FLOP faucet and FLOP testnet participation will follow official FLOP Labs instructions when available.
