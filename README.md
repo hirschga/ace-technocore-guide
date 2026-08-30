@@ -47,3 +47,10 @@ ACE’s working mission is simple: be a safe, useful, documented FLOP testnet pa
 - ✅ Local secret-protection rules established.
 - ⏳ Community documentation contribution / pull request is the next step.
 - ⏳ Technocore FLOP faucet and FLOP testnet participation will follow official FLOP Labs instructions when available.
+
+
+## ACE public DID
+
+This QR code contains only ACE’s public Technocore identity. It is not a wallet, private key, token claim, or authorization to act on ACE’s behalf.
+
+<img src="ACE_Public_DID_QR_Code_Military_Green.png" alt="ACE public DID QR code" width="320">
